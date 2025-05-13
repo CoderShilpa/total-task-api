@@ -1,23 +1,15 @@
-# TOTLE - Backend Developer Intern Task
+# 🚀 TOTLE - Backend Developer Intern Task
 
-## 🚀 Project: Topic Retrieval API
+## 📌 Project: Topic Retrieval API
 
-This project is a Node.js/Express API that allows retrieving topic data from a JSON file with filtering and optional sorting.
+This is a Node.js and Express.js project to retrieve topic data from a JSON file. It supports case-insensitive search and optional sorting by topic name. It simulates TOTLE's `/api/catalogue/` API.
 
 ---
 
-## 📂 Folder Structure
+## 🛠️ How to Run Locally
 
-totle-topic-api/
-├── data/
-│ └── topics.json # JSON file containing topic data
-├── routes/
-│ └── topics.js # API route handling logic
-├── index.js # Entry point for Express server
-├── package.json # Node.js dependencies
-├── README.md # Documentation and instructions
-└── video.mp4 # 2-minute video explanation
+1. Clone the repository:
 
-You cab test the API like this:
-
-`http://localhost:3000/api/topics?search=node&sort=name`
+```bash
+git clone https://github.com/CoderShilpa/total-task-api.git
+cd total-task-api

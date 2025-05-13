@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "JavaScript Basics", "category": "Programming" },
+  { "id": 2, "name": "Node.js Intro", "category": "Backend" },
+  { "id": 3, "name": "Express Routing", "category": "Backend" },
+  { "id": 4, "name": "React Fundamentals", "category": "Frontend" },
+  { "id": 5, "name": "Databases 101", "category": "Database" }
+]
